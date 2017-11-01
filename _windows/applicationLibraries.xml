@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="privacydb">
+      <CLASSES />
+      <JAVADOC />
+      <NATIVE>
+        <root url="file://D:/downloads/privacydb" />
+      </NATIVE>
+      <SOURCES />
+    </library>
     <library name="server-lib">
       <CLASSES>
         <root url="jar://D:/downloads/apache-tomcat-7.0.67/apache-tomcat-7.0.67/lib/jsp-api.jar!/" />

@@ -6,6 +6,7 @@
       <mapping pattern="__BAD__" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="__DEPARTMENT__" type="PLAIN_TEXT" />
+      <mapping ext="exclude" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

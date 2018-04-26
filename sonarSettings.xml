@@ -5,7 +5,6 @@
         <SonarServerConfig>
           <option name="hostUrl" value="http://127.0.0.1:9000" />
           <option name="name" value="Local Server" />
-          <option name="passwordChanged" value="true" />
           <option name="user" value="admin" />
         </SonarServerConfig>
       </list>

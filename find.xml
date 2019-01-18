@@ -22,11 +22,13 @@
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*A.java</mask>
-      <mask>*Ac.java</mask>
-      <mask>*Actio.java</mask>
       <mask>*Action.java</mask>
+      <mask>*Actio.java</mask>
+      <mask>*Acti.java</mask>
+      <mask>*Act.java</mask>
+      <mask>*Ac.java</mask>
+      <mask>*A.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
